@@ -1,0 +1,16 @@
+{
+    "fileLocations": [
+        {
+            "URIs": [
+                "s3://spaturub/covid_ts_deaths_global.csv"
+            ]
+        }
+    ],
+    "globalUploadSettings": {
+        "format": "CSV",
+        "delimiter": ",",
+        "textqualifier": "'",
+        "containsHeader": "true"
+    }
+}
+     
